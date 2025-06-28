@@ -1,4 +1,4 @@
-# 🌤️ Weather Wizard – Task 1
+# 🌤️ Weather Wizard
 
 A colorful and animated weather app built using **HTML, CSS, and JavaScript**.  
 It fetches real-time weather data from the **OpenWeatherMap API** and displays current conditions for any city.
