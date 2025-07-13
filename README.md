@@ -27,3 +27,6 @@ This project has many real-world applications, not only for weather apps but als
 
 In summary, Task 1 was a comprehensive and practical experience that strengthened my frontend development skills, deepened my knowledge of JavaScript and RESTful APIs, and taught me how to design responsive and interactive user experiences based on live data. It was a strong start to my journey as a full-stack developer.
 
+##Output
+
+👉 [Click here to view](https://madex-tech.github.io/Weather-App/)
