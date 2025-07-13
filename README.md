@@ -30,3 +30,6 @@ In summary, Task 1 was a comprehensive and practical experience that strengthene
 ##Output
 
 👉 [Click here to view](https://madex-tech.github.io/Weather-App/)
+
+<img width="1919" height="863" alt="Output" src="https://github.com/user-attachments/assets/515d926f-f51f-4b7c-ac38-ebbbdc64b8bf" />
+
